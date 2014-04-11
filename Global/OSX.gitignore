@@ -3,7 +3,8 @@
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -13,6 +14,7 @@ Icon
 .Trashes
 
 # Directories potentially created on remote AFP share
+.apdisk
 .AppleDB
 .AppleDesktop
 Network Trash Folder
